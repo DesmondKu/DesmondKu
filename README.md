@@ -1,7 +1,3 @@
-### Hi there 👋
-
-# desmond-ku
-
 ![Banner](https://github.com/DesmondKu/DesmondKu/blob/main/22B00F2F-391A-4EEF-A39F-1A1AB60BE007.png)
 
 
