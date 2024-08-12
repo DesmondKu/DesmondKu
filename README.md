@@ -1,4 +1,4 @@
-![Banner](https://github.com/DesmondKu/DesmondKu/blob/main/22B00F2F-391A-4EEF-A39F-1A1AB60BE007.png)
+![Banner](https://github.com/DesmondKu/DesmondKu/blob/main/Hi!.png)
 
 ## 🚀 About Me
 I am a highly organized, passionate, and self-motivated Data Analyst. 
@@ -19,5 +19,5 @@ Relational Databases (SQL), Microsoft Office Suite (Excel, Word, PowerPoint, Acc
 
 🧠 I'm currently learning Data Science !!!
 
-⚡️ Fun fact : Casual badminton player that LOVES to drink mocha!
+⚡️ Fun fact : Casual badminton player that LOVES to drink Flat White!
 
